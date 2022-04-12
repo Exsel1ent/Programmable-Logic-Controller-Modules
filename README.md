@@ -1,5 +1,5 @@
 # Programmable-Logic-Controller-Modules
-Daftar Isi
+Basic module for PLC
 
 Week 1 : Panduan Instalasi
 
